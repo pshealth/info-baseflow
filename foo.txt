@@ -1,1 +1,5 @@
 Now we are the feature
+
+Now we've even changed the same file
+
+We survived the merge!
